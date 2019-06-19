@@ -1,0 +1,43 @@
+h1{
+  text-align: center;
+  color: #ffffff !important;
+  font-family: 'Nanum Gothic', sans-serif !important;
+}
+
+
+.dr-form{
+	max-width: 500px;
+	background: #ffffff;
+	margin: 10px auto;
+	padding: 20px;
+  border-radius: 5px;
+  text-align: center;
+	background: #ffffff;
+  color: rgb(97, 97, 97);
+	font-family: 'Nanum Gothic', sans-serif;
+}
+
+body {
+background: rgba(133,15,78,1);
+background: -moz-linear-gradient(left, rgba(133,15,78,1) 0%, rgba(239,1,124,1) 100%);
+background: -webkit-gradient(left top, right top, color-stop(0%, rgba(133,15,78,1)), color-stop(100%, rgba(239,1,124,1)));
+background: -webkit-linear-gradient(left, rgba(133,15,78,1) 0%, rgba(239,1,124,1) 100%);
+background: -o-linear-gradient(left, rgba(133,15,78,1) 0%, rgba(239,1,124,1) 100%);
+background: -ms-linear-gradient(left, rgba(133,15,78,1) 0%, rgba(239,1,124,1) 100%);
+background: linear-gradient(to right, rgba(133,15,78,1) 0%, rgba(239,1,124,1) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#850f4e', endColorstr='#ef017c', GradientType=1 );
+}
+
+button {
+  background-color: rgb(221, 221, 221);
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  font-family: 'Aton','Nanum Gothic', sans-serif;
+}
